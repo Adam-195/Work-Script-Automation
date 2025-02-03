@@ -1,0 +1,3 @@
+Booking schedule to keep track of the Pool Vehicles we manage
+
+The Script uses a GUI to collect users data and appends it to a CSV file that can be accessed by management
