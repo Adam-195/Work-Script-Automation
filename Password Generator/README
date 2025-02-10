@@ -1,0 +1,17 @@
+Used to automate password creation for an application that has many and strict parameters, and requires it to be changed monthly.
+
+
+Parameters:
+    Must be at least 12 characters long.
+    Must start with a letter.
+    Must contain a digit.
+    Must contain an upper case letter.
+    Must contain a special character.
+    Must not contain the User ID.
+    Must not contain repeating characters(e.g. paSSw0rd,alec11 are invalid).
+    Must not contain the first three letters of any month.
+    Must not have been used within the last 12 months.
+
+
+
+NOTE: Some info is redacted 
